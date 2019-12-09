@@ -1,0 +1,7 @@
+RebuildIndex
+Process started at 2019-11-18 04:32:37 обнГ.
+Process Workspace: DLG_5H_1K.sde
+
+Process Workspace: DLG_5H_STYLE.sde
+
+Process completed at 2019-11-18 04:33:15 обнГ.
